@@ -1,1 +1,1 @@
-Sitemap: https://simra.github.io/covid19_fastpages/sitemap.xml
+Sitemap: https://simra.github.io/fastpages/sitemap.xml
